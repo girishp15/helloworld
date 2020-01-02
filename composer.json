@@ -1,6 +1,6 @@
 {
     "name": "girishp/hello-world",
-    "description": "My first Composer project",
+    "description": "My first Composer Project",
     "type": "library",
     "authors": [
         {
